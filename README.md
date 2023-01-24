@@ -1,13 +1,13 @@
-## [Ethan Phelps](https://felpsey.com)
+# [Ethan Phelps](https://felpsey.com)
 A natural passion for education, software, and engineering with a meticulous and compulsive desire to achieve.
 
-### Experience
+## Experience
 I have worked in the IT industry from the age of 17 primary supporting internal ITIL aligned service desks and technical operations for managed service providers.
 A consistent theme during my employment has been the concious selection of roles that support the public sector, including primary, secondary, higher education, NHS and UK Government.
 
 
-### Education
-Open University (2021-2024)
+## Education
+### Open University (2021-2024)
 - [BSc (Hons) Computing and IT (Software)](https://www.open.ac.uk/courses/computing-it/degrees/bsc-computing-it-software-q62-soft)
   - [TM111: Introduction to computing and information technology 1](https://www.open.ac.uk/courses/qualifications/details/tm111) ![](https://img.shields.io/badge/-Distinction-blue)
   - [TM112: Introduction to computing and information technology 2](https://www.open.ac.uk/courses/qualifications/details/tm112) ![](https://img.shields.io/badge/-Merit-blue)
@@ -18,7 +18,7 @@ Open University (2021-2024)
   - [M250: Object-oriented Java programming](https://www.open.ac.uk/courses/qualifications/details/m250) ![](https://img.shields.io/badge/-In%20progress-yellow)
   - [TT284: Web technologies](https://www.open.ac.uk/courses/qualifications/details/tt284) ![](https://img.shields.io/badge/-In%20progress-yellow)
 
-COWC (2018-2021)
+### COWC (2018-2021)
 - [Level 3 Diploma in Professional Competence for IT and Telecoms Professionals](https://qualifications.pearson.com/en/qualifications/btec-international-level-3/it.html#%2Ftab-Diploma) ![](https://img.shields.io/badge/-Distinction-blue)
 - [Level 3 Subsidiary Diploma in IT](https://qualifications.pearson.com/en/qualifications/btec-international-level-3/it.html#%2Ftab-SubsidiaryDiploma) ![](https://img.shields.io/badge/-Distinction-blue)
 - [Level 2 Diploma in Professional Competence for IT and Telecoms Professionals](https://qualifications.pearson.com/en/qualifications/btec-international-level-2/information-technology.html#%2Ftab-Diploma) ![](https://img.shields.io/badge/-Pass-blue)
