@@ -2,17 +2,17 @@
 A natural passion for education, software, and engineering with a meticulous and compulsive desire to achieve.
 
 ## Experience
-I have worked in the IT industry from the age of 17 primary supporting internal ITIL aligned service desks and technical operations for managed service providers.
+I have worked in the IT industry from the age of 17 primarily supporting internal ITIL aligned service desks and technical operations for managed service providers.
 A consistent theme during my employment has been the concious selection of roles that support the public sector, including primary, secondary, higher education, NHS and UK Government.
 
 
 ## Education
 ### Open University (2021-2024)
 - [BSc (Hons) Computing and IT (Software)](https://www.open.ac.uk/courses/computing-it/degrees/bsc-computing-it-software-q62-soft)
-  - [TM111: Introduction to computing and information technology 1](https://www.open.ac.uk/courses/qualifications/details/tm111) ![](https://img.shields.io/badge/-Distinction-blue)
-  - [TM112: Introduction to computing and information technology 2](https://www.open.ac.uk/courses/qualifications/details/tm112) ![](https://img.shields.io/badge/-Merit-blue)
-  - [TM129: Technologies in practice](https://www.open.ac.uk/courses/qualifications/details/tm129) ![](https://img.shields.io/badge/-Merit-blue)
-  - [MU123: Discovering mathematics](https://www.open.ac.uk/courses/qualifications/details/mu123) ![](https://img.shields.io/badge/-Pass-blue)
+  - [TM111: Introduction to computing and information technology 1](https://www.open.ac.uk/courses/qualifications/details/tm111) ![](https://img.shields.io/badge/-Completed-blue)
+  - [TM112: Introduction to computing and information technology 2](https://www.open.ac.uk/courses/qualifications/details/tm112) ![](https://img.shields.io/badge/-Completed-blue)
+  - [TM129: Technologies in practice](https://www.open.ac.uk/courses/qualifications/details/tm129) ![](https://img.shields.io/badge/-Completed-blue)
+  - [MU123: Discovering mathematics](https://www.open.ac.uk/courses/qualifications/details/mu123) ![](https://img.shields.io/badge/-Completed-blue)
   - [M269: Algorithms, data structures and computability](https://www.open.ac.uk/courses/qualifications/details/m269) ![](https://img.shields.io/badge/-In%20progress-yellow)
   - [TM254: Managing IT: the why, the what and the how](https://www.open.ac.uk/courses/qualifications/details/tm254) ![](https://img.shields.io/badge/-In%20progress-yellow)
   - [M250: Object-oriented Java programming](https://www.open.ac.uk/courses/qualifications/details/m250) ![](https://img.shields.io/badge/-In%20progress-yellow)
