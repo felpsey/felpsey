@@ -23,10 +23,10 @@ A consistent theme during my employment has been the concious selection of roles
   - [TM470: The computing and IT project](https://www.open.ac.uk/courses/qualifications/details/tm470) ![](https://img.shields.io/badge/-Enrolled-grey)
 
 ### COWC (2018-2021)
-- [Level 3 Diploma in Professional Competence for IT and Telecoms Professionals](https://qualifications.pearson.com/en/qualifications/btec-international-level-3/it.html#%2Ftab-Diploma) ![](https://img.shields.io/badge/-Distinction-blue)
-- [Level 3 Subsidiary Diploma in IT](https://qualifications.pearson.com/en/qualifications/btec-international-level-3/it.html#%2Ftab-SubsidiaryDiploma) ![](https://img.shields.io/badge/-Distinction-blue)
-- [Level 2 Diploma in Professional Competence for IT and Telecoms Professionals](https://qualifications.pearson.com/en/qualifications/btec-international-level-2/information-technology.html#%2Ftab-Diploma) ![](https://img.shields.io/badge/-Pass-blue)
-- [Level 2 Certificate in ICT Systems and Principles](https://qualifications.pearson.com/en/qualifications/btec-international-level-2/information-technology.html#%2Ftab-Certificate) ![](https://img.shields.io/badge/-Pass-blue)
+- [Level 3 Diploma in Professional Competence for IT and Telecoms Professionals](https://qualifications.pearson.com/en/qualifications/btec-international-level-3/it.html#%2Ftab-Diploma) ![](https://img.shields.io/badge/-Completed-blue)
+- [Level 3 Subsidiary Diploma in IT](https://qualifications.pearson.com/en/qualifications/btec-international-level-3/it.html#%2Ftab-SubsidiaryDiploma) ![](https://img.shields.io/badge/-Completed-blue)
+- [Level 2 Diploma in Professional Competence for IT and Telecoms Professionals](https://qualifications.pearson.com/en/qualifications/btec-international-level-2/information-technology.html#%2Ftab-Diploma) ![](https://img.shields.io/badge/-Completed-blue)
+- [Level 2 Certificate in ICT Systems and Principles](https://qualifications.pearson.com/en/qualifications/btec-international-level-2/information-technology.html#%2Ftab-Certificate) ![](https://img.shields.io/badge/-Completed-blue)
 
 <hr>
 
