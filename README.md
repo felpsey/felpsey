@@ -14,7 +14,7 @@ A consistent theme during my employment has been the concious selection of roles
   - [MU123: Discovering mathematics](https://www.open.ac.uk/courses/qualifications/details/mu123) ![](https://img.shields.io/badge/-Completed-blue)
   - [TM129: Technologies in practice](https://www.open.ac.uk/courses/qualifications/details/tm129) ![](https://img.shields.io/badge/-Completed-blue)
   - [M250: Object-oriented Java programming](https://www.open.ac.uk/courses/qualifications/details/m250) ![](https://img.shields.io/badge/-Completed-blue)
-  - [TM254: Managing IT: the why, the what and the how](https://www.open.ac.uk/courses/qualifications/details/tm254) ![](https://img.shields.io/badge/-In%20progress-yellow)
+  - [TM254: Managing IT: the why, the what and the how](https://www.open.ac.uk/courses/qualifications/details/tm254) ![](https://img.shields.io/badge/-Completed-blue)
   - [M269: Algorithms, data structures and computability](https://www.open.ac.uk/courses/qualifications/details/m269) ![](https://img.shields.io/badge/-Completed-blue)
   - [TT284: Web technologies](https://www.open.ac.uk/courses/qualifications/details/tt284) ![](https://img.shields.io/badge/-Completed-blue)
   - [TM351: Data management and analysis](https://www.open.ac.uk/courses/qualifications/details/tm351) ![](https://img.shields.io/badge/-Enrolled-grey)
