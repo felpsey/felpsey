@@ -11,7 +11,7 @@ A consistent theme during my employment has been the concious selection of roles
 
 
 ## Education
-### Open University (2021-2024)
+### OU (2021-2024)
 - [BSc (Hons) Computing and IT (Software)](https://www.open.ac.uk/courses/computing-it/degrees/bsc-computing-it-software-q62-soft)
   - [TM111: Introduction to computing and information technology 1](https://www.open.ac.uk/courses/qualifications/details/tm111) ![](https://img.shields.io/badge/-Completed-blue)
   - [TM112: Introduction to computing and information technology 2](https://www.open.ac.uk/courses/qualifications/details/tm112) ![](https://img.shields.io/badge/-Completed-blue)
