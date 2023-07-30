@@ -1,7 +1,7 @@
 # [Ethan Phelps](https://felpsey.com)
 Third-year Computing and IT student specialising in Software at The Open University.
 
-I bring hands-on experience in technical operations and development within managed service providers. These roles have exposed me to diverse IT service environments, catering to government, education, and private sectors.
+I have hands-on experience in technical operations and development within managed service providers. These roles have exposed me to diverse IT service environments, catering to government, education, and private sectors.
 
 My background includes work in both profit and non-profit organizations, providing me with a well-rounded perspective. I am deeply passionate about technology, software development, and I am committed to continuous learning.
 
