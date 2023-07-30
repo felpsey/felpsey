@@ -1,5 +1,5 @@
 # [Ethan Phelps](https://felpsey.com)
-Second-year Computing and IT student specialising in Software at The Open University.
+Third-year Computing and IT student specialising in Software at The Open University.
 
 I bring hands-on experience in technical operations and development within managed service providers. These roles have exposed me to diverse IT service environments, catering to government, education, and private sectors.
 
