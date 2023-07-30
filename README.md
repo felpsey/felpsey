@@ -5,11 +5,6 @@ I have hands-on experience in technical operations and development within manage
 
 My background includes work in both profit and non-profit organizations, providing me with a well-rounded perspective. I am deeply passionate about technology, software development, and I am committed to continuous learning.
 
-## Experience
-I have worked in the IT industry from the age of 17 primarily supporting internal ITIL aligned service desks and technical operations for managed service providers.
-A consistent theme during my employment has been the concious selection of roles that support the public sector, including primary, secondary, higher education, NHS and UK Government.
-
-
 ## Education
 ### OU (2021-2024)
 - [BSc (Hons) Computing and IT (Software)](https://www.open.ac.uk/courses/computing-it/degrees/bsc-computing-it-software-q62-soft)
