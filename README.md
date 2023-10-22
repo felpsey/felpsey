@@ -1,31 +1,18 @@
 # [Ethan Phelps](https://felpsey.com)
-Third-year Computing and IT student specialising in Software at The Open University.
-
-I have hands-on experience in technical operations and development within managed service providers. These roles have exposed me to diverse IT service environments, catering to government, education, and private sectors.
-
-My background includes work in both profit and non-profit organizations, providing me with a well-rounded perspective. I am deeply passionate about technology, software development, and I am committed to continuous learning.
+An unwavering commitment to continuous learning, paired with a genuine passion for problem-solving and a lifelong obsession with all aspects of computing.
 
 ## Education
-### OU (2021-2024)
 - [BSc (Hons) Computing and IT (Software)](https://www.open.ac.uk/courses/computing-it/degrees/bsc-computing-it-software-q62-soft)
-  - [TM111: Introduction to computing and information technology 1](https://www.open.ac.uk/courses/qualifications/details/tm111) ![](https://img.shields.io/badge/-Completed-blue)
-  - [TM112: Introduction to computing and information technology 2](https://www.open.ac.uk/courses/qualifications/details/tm112) ![](https://img.shields.io/badge/-Completed-blue)
-  - [MU123: Discovering mathematics](https://www.open.ac.uk/courses/qualifications/details/mu123) ![](https://img.shields.io/badge/-Completed-blue)
-  - [TM129: Technologies in practice](https://www.open.ac.uk/courses/qualifications/details/tm129) ![](https://img.shields.io/badge/-Completed-blue)
-  - [M250: Object-oriented Java programming](https://www.open.ac.uk/courses/qualifications/details/m250) ![](https://img.shields.io/badge/-Completed-blue)
-  - [TM254: Managing IT: the why, the what and the how](https://www.open.ac.uk/courses/qualifications/details/tm254) ![](https://img.shields.io/badge/-Completed-blue)
-  - [M269: Algorithms, data structures and computability](https://www.open.ac.uk/courses/qualifications/details/m269) ![](https://img.shields.io/badge/-Completed-blue)
-  - [TT284: Web technologies](https://www.open.ac.uk/courses/qualifications/details/tt284) ![](https://img.shields.io/badge/-Completed-blue)
-  - [TM351: Data management and analysis](https://www.open.ac.uk/courses/qualifications/details/tm351) ![](https://img.shields.io/badge/-In%20progress-yellow)
-  - [TM352: Web, mobile and cloud technologies](https://www.open.ac.uk/courses/qualifications/details/tm352) ![](https://img.shields.io/badge/-In%20progress-yellow)
-  - [TM354: Software engineering](https://www.open.ac.uk/courses/qualifications/details/tm354) ![](https://img.shields.io/badge/-In%20progress-yellow)
-  - [TM470: The computing and IT project](https://www.open.ac.uk/courses/qualifications/details/tm470) ![](https://img.shields.io/badge/-In%20progress-yellow)
+- [Level 3 Diploma in Professional Competence for IT and Telecoms Professionals](https://qualifications.pearson.com/en/qualifications/btec-international-level-3/it.html#%2Ftab-Diploma)
+- [Level 3 Subsidiary Diploma in IT](https://qualifications.pearson.com/en/qualifications/btec-international-level-3/it.html#%2Ftab-SubsidiaryDiploma)
+- [Level 2 Diploma in Professional Competence for IT and Telecoms Professionals](https://qualifications.pearson.com/en/qualifications/btec-international-level-2/information-technology.html#%2Ftab-Diploma)
+- [Level 2 Certificate in ICT Systems and Principles](https://qualifications.pearson.com/en/qualifications/btec-international-level-2/information-technology.html#%2Ftab-Certificate)
 
-### COWC (2018-2021)
-- [Level 3 Diploma in Professional Competence for IT and Telecoms Professionals](https://qualifications.pearson.com/en/qualifications/btec-international-level-3/it.html#%2Ftab-Diploma) ![](https://img.shields.io/badge/-Completed-blue)
-- [Level 3 Subsidiary Diploma in IT](https://qualifications.pearson.com/en/qualifications/btec-international-level-3/it.html#%2Ftab-SubsidiaryDiploma) ![](https://img.shields.io/badge/-Completed-blue)
-- [Level 2 Diploma in Professional Competence for IT and Telecoms Professionals](https://qualifications.pearson.com/en/qualifications/btec-international-level-2/information-technology.html#%2Ftab-Diploma) ![](https://img.shields.io/badge/-Completed-blue)
-- [Level 2 Certificate in ICT Systems and Principles](https://qualifications.pearson.com/en/qualifications/btec-international-level-2/information-technology.html#%2Ftab-Certificate) ![](https://img.shields.io/badge/-Completed-blue)
+## Certifications
+- [Certified Meraki Networking Associate (CMNA, 92634)](https://community.meraki.com/t5/badges/userbadgespage/user-id/92634)
+- [Microsoft 365 Certified: Fundamentals (MS-900, 452348714)](https://learn.microsoft.com/en-gb/users/felpsey/credentials/6091692eb0fd3689)
+- [Microsoft Azure Certified: Fundamentals (AZ-900, 994019550)](https://learn.microsoft.com/en-gb/users/felpsey/credentials/d377427557b53752)
+- [Cisco Networking Essentials (1034518225)](https://skillsforall.com/course/networking-essentials)
 
 <hr>
 
