@@ -1,5 +1,5 @@
 # [Ethan Phelps](https://felpsey.com)
-An unwavering commitment to continuous learning, paired with a genuine passion for problem-solving and a lifelong obsession with all aspects of computing.
+IT Professional
 
 ## Education
 - [BSc (Hons) Computing and IT (Software)](https://www.open.ac.uk/courses/computing-it/degrees/bsc-computing-it-software-q62-soft)
