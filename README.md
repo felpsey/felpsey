@@ -1,5 +1,5 @@
 # [Ethan Phelps](https://felpsey.com)
-IT Professional. Student.
+IT Professional. Graduate.
 
 ## Education
 - [BSc (Hons) Computing and IT (Software)](https://www.open.ac.uk/courses/computing-it/degrees/bsc-computing-it-software-q62-soft)
