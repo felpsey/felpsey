@@ -18,4 +18,4 @@ IT Professional. Graduate.
 
 <hr>
 
-<img src="https://learn.microsoft.com/media/learn/certification/badges/microsoft-certified-expert-badge.svg?branch=main" alt="Microsoft Certified Expert Badge" width="50" height="50">
+<img src="https://learn.microsoft.com/media/learn/certification/badges/microsoft-certified-expert-badge.svg?branch=main" alt="Microsoft Certified Expert Badge" width="150" height="150">
