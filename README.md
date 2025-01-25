@@ -9,6 +9,7 @@ IT Professional. Graduate.
 - [Level 2 Certificate in ICT Systems and Principles](https://qualifications.pearson.com/en/qualifications/btec-international-level-2/information-technology.html#%2Ftab-Certificate)
 
 ## Certifications
+- [Microsoft Certified: DevOps Engineer Expert (AZ-400, 8D74199E5826BA31)](https://learn.microsoft.com/api/credentials/share/en-gb/felpsey/8D74199E5826BA31)
 - [Microsoft Certified: Azure Administrator Associate (AZ-104, 1a332ac31022c952)](https://learn.microsoft.com/en-gb/users/felpsey/credentials/1a332ac31022c952)
 - [Certified Meraki Networking Associate (CMNA, 92634)](https://community.meraki.com/t5/badges/userbadgespage/user-id/92634)
 - [Microsoft 365 Certified: Fundamentals (MS-900, 6091692eb0fd3689)](https://learn.microsoft.com/en-gb/users/felpsey/credentials/6091692eb0fd3689)
