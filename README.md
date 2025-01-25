@@ -18,4 +18,4 @@ IT Professional. Graduate.
 
 <hr>
 
-[![](https://learn.microsoft.com/media/learn/certification/badges/microsoft-certified-expert-badge.svg?branch=main)]([https://felpsey.com](https://learn.microsoft.com/api/credentials/share/en-gb/felpsey/8D74199E5826BA31))
+<img src="[url](https://learn.microsoft.com/media/learn/certification/badges/microsoft-certified-expert-badge.svg?branch=main)" alt="Microsoft Certified Expert Badge" width="50" height="50">
