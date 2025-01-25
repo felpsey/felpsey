@@ -19,3 +19,4 @@ IT Professional. Graduate.
 <hr>
 
 <img src="https://learn.microsoft.com/media/learn/certification/badges/microsoft-certified-expert-badge.svg?branch=main" alt="Microsoft Certified Expert Badge" width="100" height="100">
+<img src="https://community.meraki.com/html/@7DFD8BD7243A473E8A0D423D5FA695C0/badge_icons/badge-cmna.png" alt="Cisco Meraki Network Associate Badge" width="100" height="100">
