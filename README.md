@@ -9,6 +9,7 @@ IT Professional. Graduate.
 - [Level 2 Certificate in ICT Systems and Principles](https://qualifications.pearson.com/en/qualifications/btec-international-level-2/information-technology.html#%2Ftab-Certificate)
 
 ## Certifications
+- [AWS Certified: Solutions Architect - Associate (1a654069-17e4-42ab-9287-93b2f0d3942e)](https://www.credly.com/earner/earned/badge/1a654069-17e4-42ab-9287-93b2f0d3942e)
 - [AWS Certified: SysOps Administrator (6d0a6a34-3aba-4bb0-a9b2-0adbb90b5259)](https://www.credly.com/earner/earned/badge/6d0a6a34-3aba-4bb0-a9b2-0adbb90b5259)
 - [AWS Certified: Cloud Practitioner (3861bb50-48ac-42c3-a58a-6e14b185005a)](https://www.credly.com/earner/earned/badge/3861bb50-48ac-42c3-a58a-6e14b185005a)
 - [Microsoft Certified: DevOps Engineer Expert (AZ-400, 8D74199E5826BA31)](https://learn.microsoft.com/api/credentials/share/en-gb/felpsey/8D74199E5826BA31)
