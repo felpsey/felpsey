@@ -11,6 +11,7 @@ IT Professional. Graduate.
 ## Certifications
 - [AWS Certified: Solutions Architect - Associate (1a654069-17e4-42ab-9287-93b2f0d3942e)](https://www.credly.com/earner/earned/badge/1a654069-17e4-42ab-9287-93b2f0d3942e)
 - [AWS Certified: SysOps Administrator (6d0a6a34-3aba-4bb0-a9b2-0adbb90b5259)](https://www.credly.com/earner/earned/badge/6d0a6a34-3aba-4bb0-a9b2-0adbb90b5259)
+- [Microsoft Certified: Security Operations Analyst Associate (SC-200, F755EEF9CDB0CF5C)](https://learn.microsoft.com/en-gb/users/felpsey/credentials/f755eef9cdb0cf5c)
 - [AWS Certified: Cloud Practitioner (3861bb50-48ac-42c3-a58a-6e14b185005a)](https://www.credly.com/earner/earned/badge/3861bb50-48ac-42c3-a58a-6e14b185005a)
 - [Microsoft Certified: DevOps Engineer Expert (AZ-400, 8D74199E5826BA31)](https://learn.microsoft.com/api/credentials/share/en-gb/felpsey/8D74199E5826BA31)
 - [Microsoft Certified: Azure Administrator Associate (AZ-104, 1a332ac31022c952)](https://learn.microsoft.com/en-gb/users/felpsey/credentials/1a332ac31022c952)
